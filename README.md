@@ -81,21 +81,6 @@ You can edit these variables inside the script:
 ---
 
 
-### 🏃 Running the Script
-
-![Running Script](screenshots/running_script.png)
-
-### 🖼️ Extracted Unique Frames
-
-![Unique Frames](screenshots/unique_frames.png)
-
-### 📄 Final PDF Example
-
-![PDF Output](screenshots/pdf_example.png)
-
-> *(Screenshots are just placeholders. Add your own images inside a `screenshots/` folder.)*
-
----
 
 ## 📝 Example
 
